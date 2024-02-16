@@ -1,5 +1,13 @@
 # note-mark
 
+# create project
+
+```
+yarn create @quick-start/electron
+react -> typescript -> no -> no
+yarn
+```
+
 An Electron application with React and TypeScript
 
 ## Recommended IDE Setup
