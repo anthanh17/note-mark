@@ -6,6 +6,9 @@
 yarn create @quick-start/electron
 react -> typescript -> no -> no
 yarn
+# setup tailwindcss
+yarn add -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 ```
 
 An Electron application with React and TypeScript
