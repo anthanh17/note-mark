@@ -1,6 +1,8 @@
-# note-mark
+# note-mark application
 
-# create project
+## TechStack: Electron, React, Tailwindcss, TypeScript
+
+## Create project
 
 ```
 yarn create @quick-start/electron
@@ -10,12 +12,6 @@ yarn
 yarn add -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
-
-An Electron application with React and TypeScript
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Project Setup
 
